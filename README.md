@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Nthabi/Nthabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nthabi and I mainly work with Java & Angular!
+I'm currently working on an opensource project. Its integrating an isiZulu spellchecker with a website of my client's. This spellchecker was part of my research in my honors year in varsity. Besides that, I'm learning mobile development, particularly Ionic. I'm keen to collaborate on an y web development projects😁
 
-Here are some ideas to get you started:
+You can reach me  @_nthabi on Twitter or mail me at nthabimashiane@gmail.com
 
-- 🔭 I’m currently working on a opensource isiZulu spellchecker
-- 🌱 I’m currently learning mobile development. Ionic and ReactNative to be specific
-- 👯 I’m looking to collaborate on any web app based projects
-- 📫 How to reach me: @_nthabi on Twitter or mail me at nthabimashiane@gmail.com
--->
